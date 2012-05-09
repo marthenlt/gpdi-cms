@@ -1,0 +1,9 @@
+# IntelliJ files
+.idea
+gpdisingapura-cms.iml
+gpdi-cms/gpdi-cms.iml
+
+# Target
+gpdi-cms/target
+
+
